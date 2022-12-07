@@ -1,2 +1,2 @@
 # Facebook_Clone
-Facebook clone application using Node js, Express js and Mongo DB
+Facebook clone application using Node Js, Express js and Mongo DB
